@@ -1,15 +1,15 @@
 {
-    "id": "sanae",
-    "title": "Sanae's Adventures in Gensokyo",
-    "dependencies": [
+	"dependencies": [
 		"MoriyaFaith/hudplus",
 		"thpatch/lang_en"
-    ],
-    "update": true,
-    "servers": [
-        "https://thcrap.nmlgc.net/repos/MoriyaFaith/",
-        "http://thcrap.nmlgc.net/repos/MoriyaFaith/",
-        "https://mirrors.thpatch.net/MoriyaFaith/",
-        "http://mirrors.thpatch.net/MoriyaFaith/"
-    ]
+	],
+	"id": "sanae",
+	"servers": [
+		"https://thcrap.nmlgc.net/repos/MoriyaFaith/sanae/",
+		"http://thcrap.nmlgc.net/repos/MoriyaFaith/sanae/",
+		"https://mirrors.thpatch.net/MoriyaFaith/sanae/",
+		"http://mirrors.thpatch.net/MoriyaFaith/sanae/"
+	],
+	"title": "Sanae's Adventures in Gensokyo",
+	"update": true
 }

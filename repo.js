@@ -2,8 +2,8 @@
 	"contact": "@MoriyaFaith#9287",
 	"id": "MoriyaFaith",
 	"patches": {
-		"sanae": "Sanae in Touhou 7"
-		"hudplus": "Updated HUD and Players (Touhou 7)"
+		"hudplus": "HUD Plus",
+		"sanae": "Sanae's Adventures in Gensokyo"
 	},
 	"servers": [
 		"https://thcrap.nmlgc.net/repos/MoriyaFaith/",

@@ -1,14 +1,14 @@
 {
-    "id": "hudplus",
-    "title": "HUD Plus",
-    "dependencies": [
+	"dependencies": [
 		"thpatch/lang_en"
-    ],
-    "update": true,
-    "servers": [
-        "https://thcrap.nmlgc.net/repos/MoriyaFaith/",
-        "http://thcrap.nmlgc.net/repos/MoriyaFaith/",
-        "https://mirrors.thpatch.net/MoriyaFaith/",
-        "http://mirrors.thpatch.net/MoriyaFaith/"
-    ]
+	],
+	"id": "hudplus",
+	"servers": [
+		"https://thcrap.nmlgc.net/repos/MoriyaFaith/hudplus/",
+		"http://thcrap.nmlgc.net/repos/MoriyaFaith/hudplus/",
+		"https://mirrors.thpatch.net/MoriyaFaith/hudplus/",
+		"http://mirrors.thpatch.net/MoriyaFaith/hudplus/"
+	],
+	"title": "HUD Plus",
+	"update": true
 }
