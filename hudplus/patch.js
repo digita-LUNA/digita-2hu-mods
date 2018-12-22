@@ -1,8 +1,7 @@
 {
-    "id": "sanae",
-    "title": "Sanae's Adventures in Gensokyo",
+    "id": "hudplus",
+    "title": "HUD Plus",
     "dependencies": [
-		"MoriyaFaith/hudplus",
 		"thpatch/lang_en"
     ],
     "update": true,
