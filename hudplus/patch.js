@@ -9,6 +9,6 @@
 		"https://mirrors.thpatch.net/MoriyaFaith/hudplus/",
 		"http://mirrors.thpatch.net/MoriyaFaith/hudplus/"
 	],
-	"title": "HUD Plus",
+	"title": "Better Character Select, Loading Screens, and Player Sprites for Touhou 8",
 	"update": true
 }

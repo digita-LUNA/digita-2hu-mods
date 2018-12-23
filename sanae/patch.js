@@ -10,6 +10,6 @@
 		"https://mirrors.thpatch.net/MoriyaFaith/sanae/",
 		"http://mirrors.thpatch.net/MoriyaFaith/sanae/"
 	],
-	"title": "Sanae's Adventures in Gensokyo",
+	"title": "Sanae (And Suwako) in Touhou 6 & 8",
 	"update": true
 }
