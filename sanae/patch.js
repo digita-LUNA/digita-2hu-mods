@@ -10,6 +10,6 @@
 		"https://mirrors.thpatch.net/MoriyaFaith/sanae/",
 		"http://mirrors.thpatch.net/MoriyaFaith/sanae/"
 	],
-	"title": "Sanae (And Suwako) in Touhou 6 & 8",
+	"title": "Sanae (And Suwako) in Touhou 7 & 8, 9 and 11 are unfinished, but also included.",
 	"update": true
 }
