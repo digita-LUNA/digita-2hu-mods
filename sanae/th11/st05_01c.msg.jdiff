@@ -37,12 +37,12 @@
         },
         "150_0": {
             "lines": [
-                "<t$Mima >(Do they?)"
+                "<t$Mima >:Do they?"
             ]
         },
         "154_0": {
             "lines": [
-                "<t$Mima >(*sniff sniff*)"
+                "<t$Mima >:*sniff sniff*"
             ]
         },
         "322_0": {
@@ -75,8 +75,8 @@
         },
         "362_0": {
             "lines": [
-                "<t$Mima >(What's with her?",
-                "<l$> She's kind of unsettling.)"
+                "<t$Mima >:What's with her?",
+                "<l$> She's kind of unsettling."
             ]
         },
         "370_0": {
@@ -103,8 +103,8 @@
         },
         "402_0": {
             "lines": [
-                "<t$Mima >(The worst bird...?",
-                "<l$> That's it! We should go meet her, Marisa!)"
+                "<t$Mima >:The worst bird...?",
+                "<l$> That's it! We should go meet her, Marisa!"
             ]
         },
         "410_0": {
@@ -121,8 +121,8 @@
         },
         "426_0": {
             "lines": [
-                "<t$Mima >(Okay. If you can get your hands on my",
-                "<l$> target, I'll share some of it with you.)"
+                "<t$Mima >:Okay. If you can get your hands on my",
+                "<l$> target, I'll share some of it with you."
             ]
         },
         "434_0": {
@@ -164,8 +164,8 @@
         },
         "38_0": {
             "lines": [
-                "<t$Mima >(Okay, let's go, let's go!",
-                "<l$> The power I want is almost at hand!)"
+                "<t$Mima >:Okay, let's go, let's go!",
+                "<l$> The power I want is almost at hand!"
             ]
         },
         "46_0": {
@@ -175,14 +175,14 @@
         },
         "54_0": {
             "lines": [
-                "<t$Mima >(They say it's many times",
-                "<l$> more powerful than electricity.)"
+                "<t$Mima >:They say it's many times",
+                "<l$> more powerful than the srongest magic."
             ]
         },
         "62_0": {
             "lines": [
-                "<t$Mima >(It'll revolutionize all",
-                "<l$> our power production methods.)"
+                "<t$Mima >:Combined with my magic,",
+                "<l$> I could take over the world!"
             ]
         },
         "70_0": {
