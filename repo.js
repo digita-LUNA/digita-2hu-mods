@@ -3,7 +3,8 @@
 	"id": "MoriyaFaith",
 	"patches": {
 		"hudplus": "Better Character Select, Loading Screens, and Player Sprites for Touhou 7 & 8",
-		"sanae": "Sanae (And Suwako) in Touhou 7 & 8, 9 and 11 are unfinished, but also included."
+		"sanae": "Sanae (And Suwako) in Touhou 7 & 8, 9 and 11 are unfinished, but also included.",
+		"4kids-expansion": "Character Expansion Pack for the Mysteryland Project, Featuring Jonathan Johnson."
 	},
 	"servers": [
 		"https://thcrap.nmlgc.net/repos/MoriyaFaith/",
