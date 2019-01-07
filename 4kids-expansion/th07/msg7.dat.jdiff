@@ -1,0 +1,374 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Ahh! You again!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Good thing Mommy got me a power-up!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "With this,",
+                "I won't let you anywhere near Mommies tails!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Power-up?",
+                "Mommies tails?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Gee, I hope this is the right way."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I've never been to the Mayor's house before,",
+                "so I guess it's now or never."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Wha?... what do you want here?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Overqualified IT-Tech",
+                "Vicky Vulpine"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "We're kinda closed here,",
+                "would you mind coming back during office hours?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "I don't even wanna be here in the first place,",
+                "so yeah, I kinda would mind."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Who are you anyway?",
+                "That patrol uniform looks familiar."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "I'm with animal control.",
+                "I saw a couple of stray cats and foxes around here."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Cats?...",
+                "Oh dear, did Kitty sneak out the back door again?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "That's right, gotta keep those streets clean",
+                "and get rid of pests like your sort."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Now wait a minute, just a second.",
+                "Kitty is a registered pet of mine."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I even have an official permit,",
+                "signed by the Mayor herself."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Alright then, let's go ask the Mayor",
+                "and clear up this misunderstanding."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "That said, who're you?",
+                "Her secretary?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Nah, I'm just her IT tech."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "She went to take a nap,",
+                "until I finish fixing her computer."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Oh?",
+                "When was that?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Let's see... database repairs: 1'320 hours,",
+                "OS reinstallation: 1'080 hours..."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Sounds like it was a tough job.",
+                "...but wait."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I'm not the best in math,",
+                "but wouldn't that make it... 3 MONTHS?!"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Are you telling me the mayor's been",
+                "napping ALL THROUGH THE WINTER?!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "2'530 hours and 35 minutes to be exact.",
+                "Why do you ask?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Wake her up.",
+                "Right. Now!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Oh I will, as soon as I'm finished with",
+                "the service packs. Those take ages to install."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "In fact, if you hadn't shown up this late,",
+                "I would've finished up much sooner, but noo..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "At least you're just with animal control",
+                "and not from that darned immigration center."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Well, about that..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Anyway, I can't stand official business.",
+                "I just wanna do my job here."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "That makes two of us, but..."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Alright, let's get this over with.",
+                "KITTY~! Mommy's got something to play here!"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Hey, don't just call her out like that.",
+                "I'm not done yet examinalazing her."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "...y'know, I'm starting to beleive",
+                "you're not with animal control at all."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Alright, you got me.",
+                "I'm Rachel Heartway, Monster Hunter."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "And I'm here to speak the Mayor!",
+                "...on involuntary official business!"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Oh? Well, that makes things easier for me.",
+                "Since monster hunters are not welcome here at all."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "In any case, you're obstructing an official here.",
+                "I've got a permit with your name on it, wanna see?"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "And I'm holding the 2nd highest ranking official powers,",
+                "infested right in my tails! 123456789!!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Yaay!",
+                "Looks like my department wins the show again!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Owowow~!... I lost?",
+                "Uh-oh... oh nonono!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "One, two, three, four, five,",
+                "oh dear, six, seven..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "What are you doing?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "...eight, nine!",
+                "Pheww, this time I was really worried."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "What was that about...?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Anyway, since we measured our official powers",
+                "by raw strength, go introduce me to the Mayor now."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Didn't I tell you?",
+                "Miss Indigo is still napping."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "So I've heard, but don't you think",
+                "2'530 hours is pushing it?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I even brought back the candy.",
+                "She'll miss it all if she keeps lazying around."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But I'm gonna get it if she wakes up",
+                "and her computer isn't fixed yet!"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "And you're gonna get it from me",
+                "if you don't go and fix it!"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "But you already shot me down!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "If you hadn't come to waste my time, then...",
+                "Aww noo, one, two, three, four..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Yeah whatever, just wake her up.",
+                "And what's with that counting?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Five... What does it look like?",
+                "I'm counting my tails. Six, seven..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Why would you count your tails?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I suffer from Apotemnophobia,",
+                "the fear that one of my tails might fall off."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "It's a serious condition. When I get nervous,",
+                "I have to count them, or I'll go crazy!"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "...you're weird."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Now stop counting already!",
+                "Go fix that 'puter or whatever!"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Just a sec. One, two, three...",
+                "Gotta go double sure this time. Four, five..."
+            ]
+        }
+    }
+}
