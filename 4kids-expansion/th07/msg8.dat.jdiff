@@ -2,7 +2,7 @@
     "2": {
         "40_0": {
             "lines": [
-                "There, I finally fixed the computer."
+                "There, we finally fixed the computer."
             ]
         },
         "120_0": {
@@ -19,7 +19,8 @@
         },
         "300_0": {
             "lines": [
-                "Do you really need an app for that?"
+                "Do you really need an app for that?",
+				"The answer is no, you don't."
             ]
         }
     },
@@ -50,7 +51,7 @@
         "103_0": {
             "lines": [
                 "Not really, but I hope you like beef.",
-                "Because I've got plenty with you."
+                "Because Heartways' got plenty with you."
             ]
         },
         "104_h1_0": {
@@ -79,8 +80,8 @@
         },
         "107_0": {
             "lines": [
-                "You-... you call that EARLY?!",
-                "Gimme a break!"
+                "You were asleep.",
+                "For 3. Whole. Months."
             ]
         },
         "108_0": {
@@ -102,38 +103,38 @@
         },
         "111_0": {
             "lines": [
-                "You're little Rachel.",
-                "From the border checkpoint immigration center, aren't you?"
+                "You're little Emmah.",
+                "Your family moved here last year, didn't they?"
             ]
         },
         "112_0": {
             "lines": [
-                "Sort of, though I like to call it",
-                "\"bottleneck center for beaurocratic jerks\"."
+                "Sort of, although I'd rather call it",
+                "\"dragged here by a glowing sword\"."
             ]
         },
         "113_0": {
             "lines": [
                 "My, just look at you.",
-                "What a diligent young lady you have become."
+                "What a diligent young lady you are."
             ]
         },
         "114_0": {
             "lines": [
-                "I've had my eye on you",
-                "ever since you wore your first diapers."
+                "I've had my eye on you ever since you moved here.",
+                "That sword's a bit problematic, you see."
             ]
         },
         "115_0": {
             "lines": [
-                "A stalker?... gross.",
-                "What else do you know about me?"
+                "The sword? A problem?",
+                "Oh, wait, that makes completely perfect sence, as it sorta kills Monsters."
             ]
         },
         "116_0": {
             "lines": [
-                "...actually, that's about it.",
-                "We have lots of catching up to do, you and me."
+                "...aaaaaaand, that's about it.",
+                "We have lots of learning to do, you and me."
             ]
         },
         "117_0": {
@@ -150,20 +151,20 @@
         },
         "119_0": {
             "lines": [
-                "Nightmare phantoms, vampires, cherry candy...",
+                "Slave-owning vampires, Butterfly Ghosts,",
                 "I can't handle everything myself around here!"
             ]
         },
         "120_0": {
             "lines": [
                 "Oh? Would you rather delegate such important",
-                "tasks to your witch friend?"
+                "tasks to your witch friend? Or the border patrol?"
             ]
         },
         "121_0": {
             "lines": [
-                "Leave Melissa out of this.",
-                "I wouldn't even trust her to feed my goldfish."
+                "Leave those two out of this.",
+                "I wouldn't even trust them to feed my goldfish."
             ]
         },
         "122_0": {
@@ -186,18 +187,19 @@
         },
         "125_0": {
             "lines": [
-                "Hm, I guess..."
+                "...",
+				"... ..."
             ]
         },
         "126_0": {
             "lines": [
-                "So what you're saying is, \"Never rely on adults,",
-                "when a kid can do twice the job.\""
+                "... ... ... ...",
+                "You <i$DO> realize why my sword has the name it has, right?"
             ]
         },
         "127_0": {
             "lines": [
-                "Eesh, I knew it.",
+                "Jeez, should'a known.",
                 "Coming here was a waste of time after all."
             ]
         },
@@ -217,8 +219,8 @@
     "1": {
         "60_0": {
             "lines": [
-                "Okay, show's over. You've wasted enough of my time.",
-                "You happy now?"
+                "Okay, *pant* show's over. You've wasted enough of my time.",
+                "You happy now? *pant* *pant*"
             ]
         },
         "61_0": {
@@ -229,8 +231,8 @@
         },
         "62_0": {
             "lines": [
-                "Are you kidding me? That was totally easy.",
-                "Even a baby could beat you."
+                "Are you kidding me? *pant* That was totally easy. *pant*",
+                "Even a baby could beat you. *pant*"
             ]
         },
         "63_0": {
@@ -241,14 +243,14 @@
         },
         "64_0": {
             "lines": [
-                "I didn't promise anything.",
-                "We just had a little early morning gymnastic, that's all."
+                "My, My, you're bluffing, kiddo.",
+                "You look like you're about to pass out already."
             ]
         },
         "65_0": {
             "lines": [
                 "Aw geez, it's morning already?",
-                "...maybe I can catch some Z's in school."
+                "...I'll probably pass out in class like this, though."
             ]
         },
         "66_0": {
@@ -265,14 +267,14 @@
         },
         "68_0": {
             "lines": [
-                "You're the last person I wanna hear that from!",
-                "URRGH, did you even listen to one word I said?!"
+                "You're the...last person...I wanna hear that from.",
+                "Did you...even listen to one word...I said?"
             ]
         },
         "69_0": {
             "lines": [
                 "I suppose you're right.",
-                "You seem to be running on fumes here."
+                "You seem to be running out of breath here."
             ]
         },
         "70_0": {
@@ -307,7 +309,7 @@
         "75_0": {
             "lines": [
                 "Cake?... uhm, well...",
-                "That doesn't sound too bad."
+                "That doesn't sound...too bad."
             ]
         },
         "76_0": {
@@ -341,20 +343,20 @@
         },
         "81_0": {
             "lines": [
-                "Well, I better get going.",
-                "Seeya later, shady old lady (very later, I hope!)"
+                "Well, I better...get going.",
+                "Seeya later, Miss Mayor. *thud*"
             ]
         },
         "82_0": {
             "lines": [
-                "Don't forget to say \"hi\" to your parents from me.",
-                "We go back a long way."
+                "Don't forget to say \"hi\" to your parents fro-",
+                "Oh, she's out cold."
             ]
         },
         "83_0": {
             "lines": [
-                "\"Shady old lady said hi\", got it.",
-                "Now how do I get home...?"
+                "Kitties...zzzZZZzzz...Swords...",
+                "Dragons...zzzZZZzzz...God Cards..."
             ]
         }
     }

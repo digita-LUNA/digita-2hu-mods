@@ -18,8 +18,8 @@
         },
         "300_0": {
             "lines": [
-                "Power-up?",
-                "Mommies tails?"
+                "Still so cute...",
+                "I want 20 of them now..."
             ]
         }
     },
@@ -61,7 +61,7 @@
         "104_0": {
             "lines": [
                 "Who are you anyway?",
-                "That patrol uniform looks familiar."
+                "That school uniform looks familiar."
             ]
         },
         "105_0": {
@@ -131,20 +131,20 @@
         },
         "117_0": {
             "lines": [
-                "Sounds like it was a tough job.",
-                "...but wait."
+                "Sounds like it was a tough jo-.",
+                "Hold up, a <i$thousand> hours!?"
             ]
         },
         "118_0": {
             "lines": [
-                "I'm not the best in math,",
-                "but wouldn't that make it... 3 MONTHS?!"
+                "That's three months! there's no way,",
+                "It should take that long to fix a computer!"
             ]
         },
         "119_0": {
             "lines": [
-                "Are you telling me the mayor's been",
-                "napping ALL THROUGH THE WINTER?!"
+                "Also, are you telling me the mayor's been",
+                "napping <i$since fricking February!?>"
             ]
         },
         "120_0": {
@@ -179,7 +179,8 @@
         },
         "125_0": {
             "lines": [
-                "Well, about that..."
+                "Well, about that...",
+				"Border patrol was the one who sent me here..."
             ]
         },
         "126_0": {
@@ -190,7 +191,8 @@
         },
         "127_0": {
             "lines": [
-                "That makes two of us, but..."
+                "You're telling me.",
+				"Heck, I'm even doing other people's jobs <i$on top of that.>"
             ]
         },
         "128_0": {
@@ -213,8 +215,8 @@
         },
         "131_0": {
             "lines": [
-                "Alright, you got me.",
-                "I'm Rachel Heartway, Monster Hunter."
+                "Alright, you got me. I'm Emmah Johnson!",
+                "Descendant of a long line of Monster Hunters!"
             ]
         },
         "132_0": {
@@ -231,8 +233,8 @@
         },
         "134_0": {
             "lines": [
-                "In any case, you're obstructing an official here.",
-                "I've got a permit with your name on it, wanna see?"
+                "I don't care.",
+                "I'm speaking to the mayor, like it or not!"
             ]
         },
         "135_0": {
@@ -245,8 +247,8 @@
     "1": {
         "60_0": {
             "lines": [
-                "Yaay!",
-                "Looks like my department wins the show again!"
+                "Hmph, shows you",
+                "for doubting the power of my <i$Monster Slayer>."
             ]
         },
         "61_0": {
@@ -292,7 +294,7 @@
         "68_0": {
             "lines": [
                 "So I've heard, but don't you think",
-                "2'530 hours is pushing it?"
+                "2'530 hours is pushing it? It can barely be called a nap..."
             ]
         },
         "69_0": {
@@ -309,8 +311,8 @@
         },
         "71_0": {
             "lines": [
-                "And you're gonna get it from me",
-                "if you don't go and fix it!"
+                "On second thought, you seem like you're having trouble.",
+                "Do you need help?"
             ]
         },
         "72_0": {
@@ -327,7 +329,7 @@
         "74_0": {
             "lines": [
                 "Yeah whatever, just wake her up.",
-                "And what's with that counting?"
+                "And what's with that counting? It's bugging me."
             ]
         },
         "75_0": {
@@ -361,7 +363,7 @@
         "80_0": {
             "lines": [
                 "Now stop counting already!",
-                "Go fix that 'puter or whatever!"
+                "Let's just go fix that computer!"
             ]
         },
         "81_0": {

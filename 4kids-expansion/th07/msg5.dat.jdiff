@@ -2,7 +2,7 @@
     "2": {
         "40_0": {
             "lines": [
-                "Ahh, a imposter has appearred."
+                "Ahh, a human has appearred."
             ]
         },
         "120_0": {
@@ -18,7 +18,7 @@
         "300_0": {
             "lines": [
                 "...hand zem over toute suite!",
-                "En-garde!"
+                "En-garde, swordswoman!"
             ]
         }
     },
@@ -26,13 +26,13 @@
         "60_0": {
             "lines": [
                 "Somehow I have a bad feeling about this festival.",
-				"Maybe it was El Chapo back there."
+				"Maybe it was Zoro back there."
             ]
         },
         "61_0": {
             "lines": [
                 "...and by the way, how long do these stairs go?",
-                "Did the Aztecs build this place?"
+                "Who even built this place?"
             ]
         },
         "101_0": {
@@ -55,8 +55,8 @@
         },
         "103_0": {
             "lines": [
-                "Could you repeat that? My spanish isn't the be-",
-                "Wait a minute, that was French..."
+                "Living? what is this place?",
+                "Maybe it's the afterlife, heaven or maybe it's He-"
             ]
         },
         "105_0": {
@@ -194,21 +194,21 @@
         "129_0": {
             "lines": [
                 "I told you it iz not a marshmellow!",
-                "It iz the spectrrall manifestation of my great, great, great, grrandfather!"
+                "It iz the spectrrall manifestation of my great, great, great, great, great, great"
             ]
         },
         "130_0": {
             "lines": [
-                "And now you taste ze techniques he taught me! En-garde!",
-				"Fight me, inferior swordswoman!"
+                "...great, great grrandfather!",
+                "And now you taste ze techniques he taught me! En-garde!"
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "Hmph. Shows your for doubting my swordsmanship.",
-                "And jacking my style."
+                "Hmph. Mess with the best,",
+				"Lose like the rest."
             ]
         },
         "61_0": {
