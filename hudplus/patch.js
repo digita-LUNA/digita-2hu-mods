@@ -1,6 +1,7 @@
 {
 	"dependencies": [
-		"thpatch/lang_en"
+		"thpatch/lang_en",
+		"DTM/alphes"
 	],
 	"id": "hudplus",
 	"servers": [

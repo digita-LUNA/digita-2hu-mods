@@ -1,6 +1,5 @@
 {
 	"dependencies": [
-		"DTM/alphes",
 		"MoriyaFaith/hudplus",
 		"thpatch/lang_en"
 		
