@@ -2,23 +2,23 @@
     "0": {
         "34_0": {
             "lines": [
-                "What?",
-                "What's a human like you doin' here?"
+                "Huh?",
+                "What do we have here?"
             ]
         },
         "42_0": {
             "lines": [
-                "You're not supposed to be here. We made an agreement."
+                "You're tresspassin' on my turf!"
             ]
         },
         "50_0": {
             "lines": [
-                "Whoops, please excuse me."
+                "Whoops, excuse me!"
             ]
         },
         "58_0": {
             "lines": [
-                "This was your territory, yes?"
+                "This was your territory?"
             ]
         },
         "66_0": {
@@ -29,25 +29,27 @@
         },
         "74_0": {
             "lines": [
-                "I came here to do a bit of journalism."
+                "I came here to do a bit of exter-",
+				"Ehm, I mean investigation."
             ]
         },
         "82_0": {
             "lines": [
                 "This spot appears to be the exact center of the fall area,",
-                "so I would greatly appreciate it if I could ask you a few questions?"
+                "so I thought I would figure something out about this weather."
             ]
         },
         "90_0": {
             "lines": [
                 "This mountain doesn't just belong to",
-                "you tengu, y'know."
+				"|\tthose \t,\tgods\t,Kanako and Suwako",
+                "those gods, y'know."
             ]
         },
         "98_0": {
             "lines": [
                 "So that's your way of doin' things, huh? Decidin'",
-                "all by yourselves to scrap our nonaggression treaty?"
+                "all by yourselves who owns what?"
             ]
         },
         "106_0": {
@@ -84,19 +86,19 @@
         "58_0": {
             "lines": [
                 "I simply came here because I wish",
-                "to ask you a few questions..."
+                "to investigate the weather..."
             ]
         },
         "66_0": {
             "lines": [
                 "Ah hah hah!",
-                "You tengu sure are a crafty lot, after all!"
+                "You sure are a crafty lot, after all!"
             ]
         },
         "74_0": {
             "lines": [
                 "You come in an' threaten someone with force, an' then",
-                "have the gall to say \"I just want to ask some questions?\""
+                "have the gall to say \"I just want investigate the weather?\""
             ]
         },
         "82_0": {
