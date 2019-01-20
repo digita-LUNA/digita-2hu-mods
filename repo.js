@@ -3,7 +3,7 @@
 	"id": "MoriyaFaith",
 	"patches": {
 		"betterfonts": "More Visually Appealing Fonts",
-		"hudplus": "Better Character Select, Loading Screens, and Player Sprites for Touhou 7 & 8",
+		"hudplus": "Makes a more visually appealing look and feel to earlier games.",
 		"sanae": "Sanae (And Suwako) in Touhou 7 & 8, 9 and 11 are unfinished, but also included."
 	},
 	"servers": [
@@ -12,5 +12,5 @@
 		"https://mirrors.thpatch.net/MoriyaFaith/",
 		"http://mirrors.thpatch.net/MoriyaFaith/"
 	],
-	"title": "The Modder from Moriya Shrine"
+	"title": "MoriyaFaith's Improvement and Character Mods"
 }
