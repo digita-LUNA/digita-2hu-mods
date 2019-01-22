@@ -3,7 +3,7 @@
 	"id": "MoriyaFaith",
 	"patches": {
 		"betterfonts": "More Visually Appealing Fonts",
-		"hudplus": "Makes a more visually appealing look and feel to earlier games.",
+		"hudplus": "Better Character Select, Loading Screens, and Player Sprites for Touhou 7 & 8",
 		"sanae": "Sanae (And Suwako) in Touhou 7 & 8, 9 and 11 are unfinished, but also included."
 	},
 	"servers": [
