@@ -9,6 +9,6 @@
 		"https://mirrors.thpatch.net/MoriyaFaith/rEoSD-EX/",
 		"http://mirrors.thpatch.net/MoriyaFaith/rEoSD-EX/"
 	],
-	"title": "Adds extra goodies to the rEoSD Project, including Magic Missile and Rin Satsuki.",
+	"title": "Adds extra goodies to the rEoSD Project, including Magic Missile and Rin Satsuki.\n                          rEoSD originally by dass7. Many assets, like MarisaB's shot, were made by Priw8.",
 	"update": true
 }
