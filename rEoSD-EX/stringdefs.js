@@ -1,4 +1,4 @@
 {
-	"th12": "Touhou Koumakyou - The Embodiment of Scarlet Devil",
-	"th12 JP": "Touhou Koumakyou"
+	"th12": "RE: Embodiment of Scarlet Devil EX",
+	"th12 JP": "RE:EoSD EX"
 }

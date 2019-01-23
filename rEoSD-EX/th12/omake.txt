@@ -1,0 +1,813 @@
+-------------------------------------------------------------------
+
+○Touhou 6　～ RE: Embodiment of Scarlet Devil EX.
+
+
+Afterword    Shanghai Alice Correspondence vol. 1
+
+
+&nsbp;
+
+　　　　　　　　　　　　　　 　Team Shanghai Alice Leader ZUN
+　　　　　　　　　　　　　　　　　　　　　　　         2002/08/11
+
+～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
+　Spoilers are present, so for people who haven't cleared
+  the game, read at your own discretion.
+～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
+　　But it's just extra writing. Shooting games don't really
+   have that many spoilers in the first place.
+
+
+====================================================================
+0. Omake Afterword Table of Contents
+====================================================================
+
+ 1. Omake Afterword
+ 2. Extra Story
+ 3. Character Snippets
+ 4. Music Comments
+ 5. Capturing and Hints
+
+
+====================================================================
+1. Omake Afterword
+====================================================================
+
+	Nice to meet you, this is ZUN. For those who have already
+met me, then this isn't the first time we've met. This C62 Summer
+Comiket is my first time as a participant. I hope you enjoy the
+games I make from now on. In some sense, I suppose this would be
+considered my maiden game?
+
+	Embodiment of Scarlet Devil is a game made by a danmaku
+moe artist for those who are danmaku moe.
+
+	These days, the independent and commercial shmups have
+been slowly, but silently, evolving at a rate that was
+unthinkable only a few years ago.
+
+	However, to narrow the scope to only danmaku shmups, I'm
+feeling a bit dissatisfied with the direction that it's currently
+headed. The main issues are the rapid inflation of difficulty,
+games that have only a lot of bullets, effects that are fancy and
+beautiful, but are not easy on the eyes; and games with new
+systems that don't require dodging bullets. That is my opinion.
+	Many of them are usually fun to play as games, but even
+though that might be fine as it is, in some instances it might
+give the impression that "Dodging bullets is not fun; of course
+there are going to be a lot of bullets in an shmup." If they don't
+try to find dodging bullets fun, why don't they try to reconsider
+why they would play a shmup if the enemies' shots were gone?
+
+	That's the reason why I'm calling this a Late 20th century
+style, 21st century shmup. One thing that I would like to clarify
+that I did not feel some nostalgia to the games of the late 90's
+and say: "Yup, shmups back in those days were the best." And decide
+to make a new game. (^^; If I were to say something like that, I
+wouldn't be making a new game, I'd be buying them. 
+"Yup, not just with shmups, but with everything, I want to find
+the joy in trying new things."
+
+	The difficulty is downscaled a bit, but there's a greater
+number of bullets than usual. (sweat) 
+"It's not simply OK to have a ton of them!" would be a phrase that
+I would like to hear from those who play it. (lol)
+
+	To those who think STGs need to have a unique system,
+fancy graphics, a sense of exhilaration, moe characters, or voices
+(Are there even those kinds of people(^^;?), there are commercial
+or other shmups that are better-made and this game would probably
+not be suited for you. (Hey)
+
+	Obviously, to those who decided to play, there's no need
+for reasons to enjoy the game. (^^;
+These things should only be considered to those who make (and
+especially to those who sell) the actual games.
+
+
+	Still, to those who feel like the characters are too
+small, the backgrounds are too monotonous, or a lack of variation
+in the small fry, this is not due to any particular insistence, but
+due to a simple lack of manpower. Please forgive me (sweat).
+Starting next time, I hope I am able to improve little by little as
+I become accustomed to it. (As if it's anyone else's business (^^;)
+
+---------
+
+  ―― Made With Love So it's All Right
+
+        By the way, how do you like the music?
+I intended to make it about three times as bright as usual, and
+since I haven't seen it in game music recently, I added some jazz
+fusion to it. I wanted to make it unusual and give it qualities of
+"This is what I think about when I think of game music!" yet I
+wanted to avoid the atmosphere that is so prevalent in game music a
+little bit.
+
+        ...But it's more like I didn't make anything BUT those kinds
+of songs. (Even with as long as I've been composing...) If I were to
+sum up the melodies in a single word, I guess I'd say "old"? I don't
+think "nostalgic" quite has the same meaning, anyway. (^^;
+
+        This time, I personally think that the last boss and extra
+boss theme's were created to be representative of the game, and I
+quite like them both.
+
+        This has nothing to do with the game, but I also released a
+music CD at the same time as this game. It's filled like songs like
+the ones in this game, so if you even like this game's music a
+little bit, please give the music CD a listen. However, it's almost
+entirely high-tempo songs, so you might find yourself considering
+that the best way to throw away your life is to hang yourself.
+
+        I consider it a genre-free CD, so it isn't suited for people
+who get hung up on categorizing all music into genres. Certainly.
+
+
+In any case, it makes me want to play a stringed instrument.
+Like an erhu. (That came out of nowhere!)
+
+(Translator's note: Another leftover from Rin Satsuki?)
+
+
+---------
+
+  ―― Ev-en-so, are you going?   Yes  ->No<-
+
+        There haven't been any shmups released since Dodonpachi
+Daiohjou, yeah? I've gotten to the second loop, but I've already
+given up on that. (^^; (I use A-type Leinyan.) I can't even 1cc
+Progear after 2-5 tries, so beating Daiohjou's second loop is going
+to be impossible by my estimate (Due to physical limitations).
+
+But making a danmaku shmup after so long was just as fun as ever.
+
+ Actually, when I released Mystic Square I thought "Danmaku
+shmups have already just about reached their peak." I suppose I was
+somewhat mistaken. Among the countless number of games, there are two
+large divisions. One group is games made to be widely accepted, and
+the other is made for a small fraction to greatly enjoy. For business
+(so they can put food on the table), the former is absolutely
+necessary. Of course, danmaku shmups fall into the latter. Enthusiasts
+choose them for the sake of the genre alone.
+
+        I think that almost everyone considers shmups to be an
+outdated genre based on the fact that they are rarely released anymore,
+and it's likely that not too many more shmups will be. If you or the
+people around you say that they're not fun in magazines or on the
+internet (or in your own thoughts), then it may very well be that many
+more people who also think shmups are outdated.
+
+        The fact is that they are old-fashioned. However, I think that
+its old-fashioned quality is part of its artistic essence. While kabuki
+was once pop culture, it is now considered fine arts in the present
+world. During the brief wine boom, some people may have become true
+wine connoisseurs. And like how the techniques used in Blazing Star
+showed up later in other horizontal shmups...
+        When people who just think that shmups are outdated no longer
+exist among those who play games, when there are only true danmaku
+connoisseurs, I think that might be the best era for those who are
+truly seeking to make genuine danmaku.
+
+Shmups only wanted to be a single game since its inception.
+For that reason, it might just be a little bad karma. (lol)
+
+
+---------
+
+  Getting back to the main topic...
+
+---------
+
+  ―― As a beginner, I apologize
+
+        Changing the subject, this was the first time I've made a
+Windows program of such a large scale. I've hardly done any
+programming in Windows, so the code might be rather clumsy. m(_ _)m
+However, in truth, working in an environment with things like API
+and Direct X is so much of a blessing. I barely had to touch
+anything low-level (like with the hardware), and I made a program
+that runs on the surface.
+
+        Since this time I had to construct libraries and tools from
+scratch, I ran out of time for making a lot of things, but for now
+just about every part of the development environment is in order.
+That means that for the next game I plan on improving the quality
+(especially on the production side).
+
+        I received an archive from Mr. Punch from Amusement Makers.
+Thanks to him, I was able to save a lot of time into putting 
+together the essential parts of the game, so I am grateful for that.
+
+        I think that from now on I have to make the compressed WAV
+files loop. In dealing with making the WAV and the MIDI files loop
+indefinitely, I found that the MIDI playback routine in particular
+had a lot of bugs. Sorry for the inconvenience. m(_ _)m
+
+
+
+---------
+
+―― As for the next time
+
+        What should I do? Actually, I do have the resources I need
+to make the second Touhou Project game in the future. However, I
+would personally like to see if I could make a completely different
+game. I have made a plan for a new series (although it's no
+different from Touhou (sweats) ). Well, for now I'll see if I can't
+make more Touhou Project games for a little while longer. (^^;
+
+        I think I'm certain it will probably be a shmup, but there
+is such a short amount of time between the summer and winter
+Comikets, so it'll be tough. No, I'm serious.
+        And to make things worse, I won't be able to continue
+making it due to being busy at work. (sweat)
+
+In any case, please continue your support if you like my games.
+m(_ _)m
+
+
+
+
+
+====================================================================
+2. Extra Story
+====================================================================
+
+   The backstory of Extra Stage.
+
+      Touhou Koumakyou (Scarlet Devil Insanity) ~ Sister of Scarlet.
+
+   Good weather graces Gensokyo today.
+   Peace was supposed to grace Gensokyo today.
+   The young girl clad in black felt uneasy today for some reason,
+   and therefore headed to the shrine.
+
+
+   Marisa: It's so hot, I'm gonna die here.
+   Reimu: If you die, I'll feed your corpse to the birds.
+   Remilia: My, it'd be fine if you'd let me take care of that.
+   Marisa: That's a definite no.
+
+
+   For some reason the scarlet devil was there, 
+   yet it was the usual.
+
+
+   Marisa: Is it alright to leave your house so much?
+   Remilia: I leave it to Sakuya, so it's fine.
+   Reimu: Chances are it's not fine, so go home now.
+
+
+   At that moment, a frightening clap of thunder shocked the three.
+
+
+   Reimu: A shower, huh.
+   Marisa: Unusual at this time.
+   Remilia: But I can't walk in the rain.
+
+   After a few moments have passed, rain did not visit;
+   it was clear enough that the sky was unnatural just by
+   looking outside. 
+   Fierce rain and snow hailed only a single deep area of Gensokyo.
+
+
+   Remilia: Oh? 
+            It seems the rain is only falling around me.
+   Reimu: Looks that way, maybe you've been cursed?
+   Marisa: She was cursed to begin with.
+
+   Remilia: This is troublesome, 
+            in this state I can't possibly return.
+   Reimu: Or maybe they made it so you can't head home?
+   Marisa: You've finally been kicked out.
+
+   Remilia: Rather than making a situation where I can't head home, 
+            it's more like...
+   Marisa: ...Making a situation where something can't get out?
+   Reimu: You've been kicked out after all.
+
+   Remilia: Either way, I can't go back. 
+            What should I do about my meals? (Meals = Humans)
+   Reimu: I might as well go check it out.
+   Marisa: Sounds like fun.
+
+   And so, the two left the scarlet devil to take care of the 
+   shrine while they headed towards Remilia's mansion.
+
+   Remilia: Ah, that's it, I forgot about that.
+            Patchouli is definitely trying to stop her
+            from escaping (with rain).
+
+   The devil tilted her head and leaned her cheek against
+   her right hand.
+
+   Remilia: This is troubling, neither I nor her can move in rain...
+
+
+   Rain will not allow even a single part of devils to walk.
+
+
+
+
+====================================================================
+3. Character Snippets
+====================================================================
+
+   So without any advice, here are the character back stories.
+
+  ○Eternal Shrine Maiden
+   Hakurei Reimu
+
+   Ability: Able to fly, and to manipulate natural spirits.
+
+
+   The protagonist.
+
+   Chronologically this title is not too far from the previous
+title, thus her age stays the same as before.
+
+   Unintentionally, she is a shrine maiden. Or rather, she is
+a shrine maiden only because the Touhou series has become the
+"Shrine Maiden Shooting Game" series. It feels like the cart
+has been placed before the horse to me.
+   This time, her outfit is not overly intricate like typical
+shrine maiden clothing, but has become quite simple and only
+remotely resembles that of a shrine maiden. Is she really a
+shrine maiden?
+
+   She's more like "You red & white girl!" in my opinion.
+
+
+
+  ○The Strange Magician
+   Marisa Kirisame
+
+   Ability: Manipulation of magic
+
+
+   This girl is also one of the protagonists.
+
+These two
+(Marisa and Reimu) are the heroines of the Touhou series.
+   Marisa has a very contrarian, uncooperative personality,
+and she really is a pretty bad person. Although she's human,
+she remains distant from other humans. It's questionable as
+to whether she really is human, but she is.
+
+   This time she's wearing something resembling an apron, so
+it's hard to tell if she's a magician or what.
+
+  ○The Secret Kirin Nurse
+   Rin Satsuki
+
+   Ability: Manipulation of Flowers and Wind
+
+
+   This girl is the third and final of the protagonists.
+
+	A nurse from a human village of Gensokyo. She keeps her true
+identity a secret, to blend in with the humans. She only deals in
+facts, science, and the truth, despite the fact that she herself is
+a youkai. She was scrapped from the original release of the game,
+only leaving a few traces behind. But with the power of rEoSD-EX,
+she returns, in all of her forgotten glory!
+
+   She's wearing red and white clothing, which is only fitting for a nurse.
+   Sure, this is only a theorized design, but the evidence is there, ok?
+
+
+
+  ○Youkai of the Dusk
+   Rumia
+
+   Ability: Manipulation of darkness
+
+
+   Stage 1 boss. A youkai.
+
+   She is of no importance to the story, and isn't up to
+anything in particular in her life. 
+   The ribbon tied to her hair is actually a charm; she can't
+touch it even though there have been times when she wanted to
+take it off.
+
+   There is no evidence of her ability in the game, but in
+truth, places around her are always as dark as night.
+
+   Total of 3 card attacks.
+
+
+  ○Ice Fairy of the Lake
+   Cirno
+
+   Ability: Manipulation of cold
+
+
+   Stage 2 boss. A girl of snow.
+
+   Her intellect is not very developed. She's just a child. To
+Reimu and Marisa, she's nothing more than a plain idiot.
+   She likes playing tricks and often toys with frogs. She
+freezes them instantly, then watches them revive as they thaw
+in the water. She tends to fail one out of every 3 attempts,
+however, and the poor amphibian shatters to pieces.
+
+
+   Total of 4 card attacks.
+
+
+
+  ○Chinese Girl
+   Hong Meiling
+
+Ability: Manipulation of Ki
+
+
+   Stage 3 boss. A Chinese-looking youkai.
+
+   Her clothing is colorful and somewhat traditional. She is
+the gatekeeper of the Scarlet Devil Mansion, and prevents
+intruders from beyond the lake from reaching the mansion. She
+is by no means a special character, but she is the first
+character that has something to do with the main story. Even
+if that something happens to be merely mentioning the Mistress.
+
+
+   Total of 7 card attacks.
+
+
+
+  ○The Girl of Knowledge and Shadow
+   Patchouli Knowledge
+
+   Ability: Manipulation of fire, water, wood, earth, metal,
+sun, and moon
+
+
+   The 4th stage boss. She is the friend of the young mistress
+and is a witch who has lived for 100 years. The "One-week Girl".
+
+   Her weak constitution makes her poor at physical combat, but
+she makes up for for that with her sheer variety of magical
+attacks. Patchouli's ribbon is not a holy charm, but rather an
+accessory that boosts magic power.
+
+   Since she's a genuine witch, her magical power is terrifying.
+However, because of the asthma she was born with, she often
+cannot recite the spells. She also seems to have a vitamin A
+deficiency.
+   Maybe her windowless library room is dusty. No, obviously,
+it's very dusty. But, since she spends all her time near books
+she considers them a part of herself, and cannot stand to be
+separated from them. This is how she has spent about 100 years.
+
+   Total of 21 card attacks.
+
+
+
+  ○Maid of the Scarlet Devil Mansion
+   Sakuya Izayoi
+
+   Ability: Manipulation of time
+
+
+   5th stage boss. Plays the role of a human maid about 10~20
+years old.
+
+   That power of hers distances her from the human race. She has
+given up trying to relate to ordinary people.
+   She does not care about honor or power; she thinks so long as
+it earns her dinner, being the Scarlet Devil Mansion's maid is
+fine.
+
+   She is the chief of the Scarlet Devil Mansion's maids and
+cleaning staff, and always takes advantage of her ability to stop
+time when working.
+   (If she cleans when time is stopped, it won't raise dust.)
+
+   Due to the nature of the mistress of the house, it is arguable
+whether she serves the role of maid or babysitter, but in any case,
+she is in charge of most of the affairs of the household.
+
+	　　Total of 9 card attacks.
+
+
+
+
+　○Eternally Young Scarlet Moon
+　　Remilia Scarlet
+
+　　Ability: Manipulation of Fate
+
+
+　　The final boss. She's been the mistress for about 500 years.
+
+　　She doesn't clarify this herself during the game, but she is
+a vampire. She blanketed Gensokyo with a magic mist in order to
+prevent sunlight from reaching her. Although she has been alive
+for 500 years, her personality is that of a selfish child.
+
+　　She is a light eater. In other words, she can drink only a little
+blood at a time and must leave the rest behind, so the humans off of
+whom she feeds become a bit anemic, but usually stay alive. Due to
+that fact, she is never able to increase the number of her kind.
+   She often spills more blood than she consumes. The spilt blood
+dyes her dress a deep scarlet, which is what gives rise to her
+title, the "Scarlet Devil".
+
+　　She swears that she is a descendant of Tepes, but nobody is
+certain whether she is truly related to the Vlad "Dracula" Tepes.
+   Well, let it be known that she is not.
+
+
+	　　   Total of 10 card attacks.
+
+
+
+
+　○Sister of the Devil
+　　Flandre Scarlet
+
+   Ability: Destruction of anything and everything
+
+
+	　　The Extra Boss. Also the Mistress's younger sister.
+
+　　She is a vampiric magical girl and has been the Scarlet Devil's
+younger sister for about 495 years.
+   She's kind of nuts and isn't usually allowed out of the cellar,
+but she usually doesn't try to let herself out.
+
+　　She really respects her older sister Remilia, but her raw
+destructive power far exceeds that of her sister's. Although she
+is usually docile, her insanity makes it difficult for others to
+understand her.
+
+　　When vampires attack humans, they generally try to take their
+prey alive so that they can suck its blood afterward, but Flandre
+has always been fed with cooked dishes, so she doesn't know how to
+properly attack a human. Whenever she tries to attack a human, she
+can't control herself and blows them away without leaving a spot of
+blood.
+
+   Perhaps she can't tell that her daily meals are made from living
+   humans
+   Her meals look like such harmless foodstuffs as cake and tea,
+   after all...
+
+
+
+   Total of 10 card attacks.
+
+
+
+
+====================================================================
+4. Music Comments
+====================================================================
+
+
+  ♪1. A Dream that is More Scarlet Than Red
+   The song for the title screen.
+   Normally, I would title it “Touhou Koumakyou” like the game, but
+   since the melody sounded so lonely I didn’t. (^^;
+   This time “red” is the keyword. There are lots of reds put in.
+
+
+  ♪2. A Soul as Red as an Oni's Lantern
+   A soul that’s as red and round as a hōzuki floating in the
+   darkness of dawn.
+   It’s just a common ball of fire.  A hōzuki is a seasonal flower
+   and its meaning is “trickery”.
+   Even though I say seasonal it’s going to be sold at the summer
+   comiket so the season is summer. There could be people buying it
+   at the winter comiket too….
+
+
+  ♪3. Apparitions Stalk the Night
+   “Yoh-Ma-Ya-Kou” it sort of sounds like somebody from Bhutan
+   Since the isn’t an image of dead heated fights yet, something
+   that feels fresh.
+   Is a devil that’s not a Yohma not strange?
+
+
+  ♪4. Lunate Elf
+   The elf that’s referred to here is not the one with the pointy
+   ears but the fairy.
+   There’s no meaning to this.
+   Is a fairy that’s not a Yousei not strange?
+
+
+  ♪5. Lovestruck Tomboy
+   I wanted to make a stupid sounding song so I started by making
+   the tile sound stupid.
+   The sound of the words and the look of the characters are a bit
+   stupid.
+   Despite that, I mixed in an exotic piano melody to it and
+   a personal "moe-moe".
+
+
+  ♪6. Shanghai Teahouse ~ Chinese Tea
+   I wanted Chinese sounding but it didn’t end up too Chinese.
+   (Sweats)
+   I haven’t drank black tea in a while. But black tea made of
+   blood is very sinful.
+   Well, the tea that Remilia and such are drinking is really just
+   human blood.
+   Can I really call that tea?
+
+
+  ♪7. Shanghai Alice of Meiji 17
+   I wonder how Shanghai was back then ?
+   Meiji 17th year is the year of the Sino-French war.
+   Even with other places in other countries, there’s no city that
+   suits the name of such a “Mato” .
+   And “Mato” is not a short form of “Makai city – Shinjyuku”
+
+
+  ♪8. Voile, the Magic Library
+   I think it’s a legitimate idea to have libraries that specialized
+   in grimoires.
+   Its fantasy land all of a sudden. Well, I meant it to be fantasy
+   from the start.
+   Voile is just a proper noun and doesn’t have much of a meaning.
+   Although it does have a meaning in French or something. (Laughs)
+
+
+  ♪9. Locked girl ~ The Girl's Secret Room
+   Locked girl, a locked-away girl. It has nothing to do with Key. 
+   She’s a unhealthy girl who loves the shade.
+   By the way, there isn’t much meaning to killing people in locked
+   rooms is there.
+   I could probably do suicide in a locked room.
+
+
+  ♪10. The Maid and the Pocket Watch of Blood
+   It’s an easy title to understand. Easily understandable is a good
+   thing.
+   Rather than saying maids or Jochuu, I prefer saying Komadukai. 
+   Generally speaking, most people think of a young woman when they
+   hear “a maid”. 
+   (What general is that?), but an actually useful maid would
+   probably be around 30~40.
+
+
+  ♪11. Lunar Clock ~ Luna Dial
+   The clock that appears in the novel “Yomizu hirasaka Yamiyo
+   kouro” by Fujiki Rin.
+   I would like to know what kind of clock a lunar clock is. (^^;
+   The hard rock part is the lunar part.
+   There’s an instrument called a Theremin in that novel, but I found
+   out about a year or so ago what that was. (^^;
+   Even if the house was rich, would a Theremin be something found
+   in a house of the Meiji era?
+
+
+  ♪12. The young descendant of Tepes
+   Tepes meaning Vlad Tepes.
+   He’s famous for being the model of Count Dracula.
+   From what I hear, he impaled twenty thousand captives and stood
+   them by the road…..
+   Although Remilia isn’t his descendant.
+
+
+  ♪13. Septette for the Dead Princess
+   I tweaked a certain famous classic song’s title and made it the
+   title.
+   It has nothing to do with that song though.
+   To top it off, the music isn’t even a septtete, only the feeling.
+   (Sweats)
+   In the first place, nobody’s dead and who’s the princess?
+
+
+  ♪14. The Centennial Festival For Magic Girls
+   Something like a thanksgiving festival that’s done every hundred
+   years. 
+   I wonder what’s for harvest. (Laughs)
+
+
+  ♪15. U.N. Owen was Her?
+   This is U.N. Owen (Una Nancy Owen).
+   Only people who understand it understand please. The original is
+   quite old. (About 70 years ago?)
+   The reason why the name is this, thinking in terms of why the
+   name is written in roman letters, is because Flandre is an
+   unknown being.
+   The ninth spell card is a parody of that.
+
+
+  ♪16. An Eternity that is More Transient than Scarlet
+   It’s a remix sort of thing of the tile so the name is similar.
+   Although red doesn’t really feel transient. (^^;
+
+
+  ♪17. Crimson Tower ~ Eastern Dream
+   Now that I think of it, I used to title songs in a
+   Japanese ~ English format...
+   Anyways, I tend to put “whatever Dream” to staff roll themes, so
+   once again.(^^;
+
+
+
+
+====================================================================
+5. Capturing and Hints
+====================================================================
+
+I thought I'd write hints on how to clear the game, but it's
+incredibly hard to beat this kind of game on written advice so I
+kind of skimped. (Laughs)
+
+It might be better to read these one at a time.
+
+-The requirements for a small enemy to drop power-ups (large).
+Most enemies have a set item to drop, but some of them are random.
+These enemies drop items in certain orders.
+If you defeat as many of them as possible before they escape, the
+cycle of items they drop moves faster and you’ll get big power-up
+items faster.
+But the order of things that an enemy drops is set at random between
+the range of 0~3 enemies worth.
+
+-Parts where more enemies can appear.
+Generally, if you beat the mid bosses of stages other than stages 3,
+6, and EX, there will be enemies to fill the spot.
+
+-The grazing of lasers is once per every 12 frames, only about 5
+times per second. 
+Don’t rely on laser grazing too much and try grazing other bullets
+too.
+
+-About death bombs.
+If you death bomb, the time it gives you to do so gets shorter every
+time.
+Once you die the time is reset.
+Even if you have good reflexes don’t trust it too much.
+
+-About full power mode.
+Even if you can pull in items at full power mode, it doesn’t mean
+you’ll get the most points possible.
+If the items are close to you when you pull them in and they are
+collected by the bottom part of your character, you might not get
+the maximum value from them due to the location.
+It’s the same thing if you went down right after you started drawing
+them in.
+
+-About star items
+If you get it during bombs the point for it is 100, but there are
+times when you get it after a bomb ends.
+In this case, you still get the point for it, so if you move away
+from the item at the end, you’ll get a bit more points.
+
+-About points for hitting enemies
+There are points for hitting enemies. Even if you hit characters
+that are invincible, you'll still get some points.
+
+-Dying on boss battles.
+If you power down from full power mode in boss battles, you’ll see
+power up items as you get further in the battle. If you wait for a
+bit so that the boss spits out more bullets, then get the items to
+reach full power, you’ll gain a bit more points. But if you didn’t
+die, the power ups will turn into point items so there’s not much of
+a point to die on purpose.
+
+
+-Rumia’s normal attacks seem to be random, so they are random.
+But there is a certain rule, that the first attack is always the
+same and no two attacks repeat one another, so it shouldn’t deviate
+too much.
+
+-About Patchouli’s spell cards.
+There are no random parameters involved in it.
+She will use different cards depending on the player, and weapon.
+As long as you use the same character, she’ll use the same cards.
+
+-About the bats in Remilia’s 4th attack.
+On the 4th attack, she’ll spit out lots of bats, but these are just
+for show and affect nothing.
+They don’t even have hit boxes.
+
+-In Remlia’s final form and Flandre’s spell cards
+Reimu’s bomb “Fantasy Seal” will circle around the player and won’t
+go away. This is not a bug, and at this time if you use a bomb the
+boss turns in to a bat and loses its hitbox.
+Since Fantasy Seal is a homing bomb it loses a place to go.
+
+-About Patchouli’s “Royal Flare”
+The bullets are perfectly the same every time. Just memorize the
+pattern.
+
+-About Patchouli’s “Philosopher’s Stone”
+You can’t destroy the books around her, so aim for Patchouli
+herself.
+
+-About Flandre’s 9th attack.
+Only for this attack, if you don’t die and don’t use a bomb you can
+still get a spell card bonus even if you time up.
+
+-About Flandre’s last attack.
+The difficulty will change with how much health she has remaining.
+Also, the attack will get crazier as the time runs out.
+Health is easier than time so try defeating her right off the bat.
