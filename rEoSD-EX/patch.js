@@ -1,6 +1,7 @@
 {
 	"dependencies": [
-		"thpatch/lang_en"
+		"thpatch/lang_en",
+		"dass7/reosd"
 	],
 	"id": "rEoSD-EX",
 	"servers": [
