@@ -3,7 +3,11 @@
         "nmlgc/base_tsa",
         "nmlgc/base_tasofro",
         "nmlgc/script_latin"
-    ],
+	    ],	
+	"fonts": {
+		"obelisque.otf": true
+	},
+
     "id": "betterfonts",
     "servers": [
 		"https://thcrap.nmlgc.net/repos/MoriyaFaith/betterfonts/",
