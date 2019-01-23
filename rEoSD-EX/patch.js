@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"thpatch/lang_en",
+		"thpatch/lang_en"
 	],
 	"id": "rEoSD-EX",
 	"servers": [
