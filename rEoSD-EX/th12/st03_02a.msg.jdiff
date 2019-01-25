@@ -1,0 +1,179 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey!",
+                "What do you think you're doing here!?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I'm just here",
+                "to investigate this mist."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, you can't go here!",
+                "I was told to show no mercy to any enemy!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Damn!",
+                "Time for my last stand combat formation!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "What?",
+                "But we had just started fighting..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Wait, don't run off yet!",
+				"I'm not done with you!"
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Hey! Stop following me!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Geez, I'm just doing an investigation.",
+                "It's very academic."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Aca-demic?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Oh, I see, you're a ruffian who's using science as",
+                "a pretext to rampage around the land."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "...Oh,",
+                "is that how it is?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I'm in charge of guarding this mansion!",
+                "You won't get inside!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "And you've been doing a wonderful job, too."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "That includes you, too!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "I just wanted to perform an academic investigation..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Like I said, it's the same.",
+                "You're just a common thief."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Wait a minute,",
+                "What even are you?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "You're obviously not a normal person,",
+                "unlike myself."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Normal? but you were just shooting at me..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I attacked normally.",
+				"But you attacked me first."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You're the one who's abnormal."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I'm just a regular nurse",
+                "trying to cure her patients."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "That's good to hear. If I remember correctly...",
+                "...they say that nurses are the kind of human it's okay to eat!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Ow......",
+                "That hurt......."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Well, you lost."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Now let me inside,",
+                "Right now!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I'm sorry, mistress...."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I couldn't protect the mansion..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Huh?",
+                "Can I go inside?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, here I go, then."
+            ]
+        }
+    }
+}
