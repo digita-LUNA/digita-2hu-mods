@@ -3,6 +3,9 @@
 		"thpatch/lang_en",
 		"DTM/alphes"
 	],
+	"fonts": {
+		"obelisque.otf": true
+	},
 	"id": "hudplus",
 	"servers": [
 		"https://thcrap.nmlgc.net/repos/MoriyaFaith/hudplus/",
