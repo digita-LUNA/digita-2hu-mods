@@ -1,7 +1,7 @@
 {
 	"dependencies": [
 		"MoriyaFaith/hudplus",
-		"thpatch/lang_en"
+		"DTM/alphes"
 		
 	],
 	"id": "sanae",

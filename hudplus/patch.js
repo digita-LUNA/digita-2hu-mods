@@ -1,7 +1,6 @@
 {
 	"dependencies": [
-		"thpatch/lang_en",
-		"DTM/alphes"
+		"thpatch/lang_en"
 	],
 	"fonts": {
 		"obelisque.otf": true
