@@ -1,14 +1,14 @@
 {
-    "th07 Bomb Sakuya A unfocused": "Frog Sign \"Wily Toad\"",
-    "th07 Bomb Sakuya A focused": "Frog Sign \"Unload the Toad\"",
-    "th07 Bomb Sakuya B unfocused": "Esoterica \"Gray Thaumaturgy\"",
-    "th07 Bomb Sakuya B focused": "Esoterica \"Forgotten Ritual\"",
+    "th07 Bomb Reimu A unfocused": "Faith Sign \"Moriya Ritual\"",
+    "th07 Bomb Reimu A focused": "Faith Sign \"Sealing Circle\"",
+    "th06 Bomb Reimu B": "Sealing Sign \"Seal of Banishment\"",
+    "th07 Bomb Reimu B focused": "Sealing Sign \"Forgotten Ritual\"",
 	"th08 Bomb Alice": "Celestial Sign \"Orreries Sun\"",
     "th08 Bomb Alice Last": "Mima's Universe \"Reincarnation\"",
 	"th08 Bomb Sakuya Last": "Miracle \"God's Wind\"",
     "th08 Bomb Remilia": "Native God \"Kero-Chan Braves the Storm\"",
     "th08 Bomb Remilia Last": "Native God \"Moriya God\"",
-	"th07 Stats SakuyaA": "Sanae Kochiya (Frog)",
-    "th07 Stats SakuyaB": "Sanae Kochiya (Esoterica)"
+	"th07 Stats ReimuA": "Sanae Kochiya (Frog)",
+    "th07 Stats ReimuB": "Sanae Kochiya (Esoterica)"
     
 }
