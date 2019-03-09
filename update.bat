@@ -1,2 +1,2 @@
-C:\Users\Josh\AppData\Local\Programs\Python\Python37-32\python.exe ..\scripts\repo_update.py
+for /R %%f in (*.jdiff) do @echo %%f: && python -m json.tool < %%f >NUL
 pause
