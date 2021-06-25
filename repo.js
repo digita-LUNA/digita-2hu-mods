@@ -1,6 +1,7 @@
 {
     "id": "MoriyaFaith",
-    "title": "@MoriyaFaith#9287",
+    "title": "MoriyaFaith's Improvement and Character Mods",
+    "contact": "@MoriyaFaith#9287",
     "servers": [
         "https://thcrap.nmlgc.net/repos/MoriyaFaith/",
         "http://thcrap.nmlgc.net/repos/MoriyaFaith/",
