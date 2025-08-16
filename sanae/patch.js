@@ -2,7 +2,6 @@
 	"dependencies": [
 		"MoriyaFaith/gfxplus",
 		"DTM/alphes"
-		
 	],
 	"id": "sanae",
 	"servers": [

@@ -1,0 +1,21 @@
+{
+	"patch.js": 399076275,
+	"th16/face/pl02/face_pl02an.png": 1621601425,
+	"th16/face/pl02/face_pl02bs.png": 3683139472,
+	"th16/face/pl02/face_pl02dp.png": 2594983351,
+	"th16/face/pl02/face_pl02hp.png": 1831290255,
+	"th16/face/pl02/face_pl02n2.png": 58856427,
+	"th16/face/pl02/face_pl02no.png": 3063831108,
+	"th16/face/pl02/face_pl02pr.png": 3896942267,
+	"th16/face/pl02/face_pl02sp.png": 2558953634,
+	"th16/face/pl02/face_pl02sw.png": 3724275836,
+	"th16/pl02.anm": 1673229481,
+	"th16/pl02.sht": 2580028223,
+	"th16/pl02sub.anm": 1059499638,
+	"th16/player/pl02/pl02.png": 4289816275,
+	"th16/title/title_pl02a.png": 1667949682,
+	"th16/title/title_pl02b.png": 2144575227,
+	"th16/title/title_pl02c.png": 4049809450,
+	"th16/title/weapon01a.png": 1488995851,
+	"th16/title/weapon01b.png": 1490458867
+}
