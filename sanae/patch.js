@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"MoriyaFaith/hudplus",
+		"MoriyaFaith/gfxplus",
 		"DTM/alphes"
 		
 	],
@@ -11,6 +11,6 @@
 		"https://mirrors.thpatch.net/MoriyaFaith/sanae/",
 		"http://mirrors.thpatch.net/MoriyaFaith/sanae/"
 	],
-	"title": "(TH7, 8, 9 [WIP], 11[WIP], 16) the Kochiya Project.",
+	"title": "(TH7, 8, 9 [WIP], 11[WIP], 16) the Kochiya Project. Adds Sanae to games she doesn't appear in.",
 	"update": true
 }

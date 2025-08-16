@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "MoriyaFaith/hudplus",
+    "MoriyaFaith/gfxplus",
     "DTM/alphes"
   ],
   "id": "izayoi",
@@ -10,6 +10,6 @@
     "https://mirrors.thpatch.net/MoriyaFaith/izayoi/",
     "http://mirrors.thpatch.net/MoriyaFaith/izayoi/"
   ],
-  "title": "(TH16) the Izayoi Project.",
+  "title": "(TH16) the Izayoi Project. Adds Sakuya Izayoi to Touhou 16.",
   "update": true
 }

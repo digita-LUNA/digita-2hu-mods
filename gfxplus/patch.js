@@ -5,7 +5,7 @@
   "fonts": {
     "obelisque.otf": true
   },
-  "id": "hudplus",
+  "id": "gfxplus",
   "servers": [
     "https://thcrap.nmlgc.net/repos/MoriyaFaith/hudplus/",
     "http://thcrap.nmlgc.net/repos/MoriyaFaith/hudplus/",
