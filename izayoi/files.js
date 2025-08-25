@@ -12,7 +12,7 @@
 	"th16/pl02.anm": 1673229481,
 	"th16/pl02.sht": 2580028223,
 	"th16/pl02sub.anm": 1059499638,
-	"th16/player/pl02/pl02.png": 4289816275,
+	"th16/player/pl02/pl02.png": 133557491,
 	"th16/title/title_pl02a.png": 1667949682,
 	"th16/title/title_pl02b.png": 2144575227,
 	"th16/title/title_pl02c.png": 4049809450,
