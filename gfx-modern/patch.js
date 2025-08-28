@@ -5,13 +5,13 @@
 	"fonts": {
 		"obelisque.otf": true
 	},
-	"id": "gfxplus",
+	"id": "gfx-modern",
 	"servers": [
 		"https://thcrap.nmlgc.net/repos/digita-2hu-mods/gfxplus/",
 		"http://thcrap.nmlgc.net/repos/digita-2hu-mods/gfxplus/",
 		"https://mirrors.thpatch.net/digita-2hu-mods/gfxplus/",
 		"http://mirrors.thpatch.net/digita-2hu-mods/gfxplus/"
 	],
-	"title": "Huge graphical updates to Touhous 6, 7, and 8.",
+	"title": "Version of gfxplus that uses TH10+ Sprites.",
 	"update": true
 }
