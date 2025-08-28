@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"thpatch/lang_en"
+		"thpatch/lang_en",
 		"digita-2hu-mods/gfxplus/"
 	],
 	"fonts": {
