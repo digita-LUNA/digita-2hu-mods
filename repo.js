@@ -2,7 +2,7 @@
 	"contact": "@digita_luna",
 	"id": "digita-2hu-mods",
 	"patches": {
-		//"gfxmodern": "Version of gfxplus that uses TH10+ Sprites.",
+		"gfxmodern": "Version of gfxplus that uses TH10+ Sprites.",
 		"gfxplus": "(TH06, TH07) Major player graphical update.",
 		"izayoi": "(TH16) the Izayoi Project. Adds Sakuya Izayoi to Touhou 16.",
 		"sanae": "(TH7, 8, 9 [WIP], 11[WIP], 16) the Kochiya Project. Adds Sanae to games she doesn't appear in."
