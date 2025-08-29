@@ -12,6 +12,6 @@
 		"https://mirrors.thpatch.net/digita-2hu-mods/gfxplus/",
 		"http://mirrors.thpatch.net/digita-2hu-mods/gfxplus/"
 	],
-	"title": "Huge graphical updates to Touhous 6, 7, and 8.",
+	"title": "(TH06, TH07) Major player graphical update.",
 	"update": true
 }
